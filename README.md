@@ -26,6 +26,9 @@
 
 
 ## Restaurant La Escollera (€€€)
+
+*Beachclub recomendado por un amigo pero los comentarios parecen divididos entre 1 y 5 estrellas.*
+
 **Playa Es Cavallet, 07817 Sant Jordi de ses Salines, Illes Balears\
 (+34) 971 39 65 72**
 
@@ -37,6 +40,9 @@
 [Google Maps](https://goo.gl/maps/KTwdvNuvNTLtZ3UH7)
 
 ## Sa Trinxa (€€)
+
+*Beachclub a pie de playa*
+
 **Playa de Ses Salines, S/N, 07830 Sant Josep de sa Talaia, Balearic Islands\
 (+34) 618 960 500**
 
