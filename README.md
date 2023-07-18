@@ -2,7 +2,7 @@
 
 ## El Bigotes (€€)
 
-*Bullit de peix: comida típica de la isla con pescado fresco. Recomandado 100%*
+*"Bullit de peix: comida típica de la isla con pescado fresco. Recomandado 100%"*
 
 **Camino Cala Boix a Cala Mastella, 138T, 07850 Cala Mastella, Illes Balears\
 (+34) 650 797 633**
@@ -14,7 +14,7 @@
 
 ## Restaurant Cala Carbó (€€)
 
-*Pequeño restaurante/chiringuito pie de playa con amplia carta de tapas y pescados.*
+*"Pequeño restaurante/chiringuito pie de playa con amplia carta de tapas y pescados."*
 
 **Platja de Cala Carbo, 1, 07830 Sant Josep de Sa Talaia, Ibiza Spain \
 (+34) 971 80 82 51**
@@ -27,7 +27,7 @@
 
 ## Restaurant La Escollera (€€€)
 
-*Beachclub recomendado por un amigo pero los comentarios parecen divididos entre 1 y 5 estrellas.*
+*"Beachclub recomendado por un amigo pero los comentarios parecen divididos entre 1 y 5 estrellas."*
 
 **Playa Es Cavallet, 07817 Sant Jordi de ses Salines, Illes Balears\
 (+34) 971 39 65 72**
@@ -41,7 +41,7 @@
 
 ## Sa Trinxa (€€)
 
-*Beachclub a pie de playa*
+*"Beachclub a pie de play"*
 
 **Playa de Ses Salines, S/N, 07830 Sant Josep de sa Talaia, Balearic Islands\
 (+34) 618 960 500**
